@@ -1,0 +1,13 @@
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\dictionarypractice\bin\Debug\netcoreapp3.1\dictionarypractice.exe
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\dictionarypractice\bin\Debug\netcoreapp3.1\dictionarypractice.deps.json
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\dictionarypractice\bin\Debug\netcoreapp3.1\dictionarypractice.runtimeconfig.json
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\dictionarypractice\bin\Debug\netcoreapp3.1\dictionarypractice.runtimeconfig.dev.json
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\dictionarypractice\bin\Debug\netcoreapp3.1\dictionarypractice.dll
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\dictionarypractice\bin\Debug\netcoreapp3.1\dictionarypractice.pdb
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\dictionarypractice\obj\Debug\netcoreapp3.1\dictionarypractice.csprojAssemblyReference.cache
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\dictionarypractice\obj\Debug\netcoreapp3.1\dictionarypractice.AssemblyInfoInputs.cache
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\dictionarypractice\obj\Debug\netcoreapp3.1\dictionarypractice.AssemblyInfo.cs
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\dictionarypractice\obj\Debug\netcoreapp3.1\dictionarypractice.csproj.CoreCompileInputs.cache
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\dictionarypractice\obj\Debug\netcoreapp3.1\dictionarypractice.dll
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\dictionarypractice\obj\Debug\netcoreapp3.1\dictionarypractice.pdb
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\dictionarypractice\obj\Debug\netcoreapp3.1\dictionarypractice.genruntimeconfig.cache
